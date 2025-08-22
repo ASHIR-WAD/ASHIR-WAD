@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashirwad</h1>
 <h3 align="center">I am a third year BTech student. And my current goals are to know more about DS/ML and Web Dev.</h3>
 
-- 🌱 My current objectives is to know about **Machine Learning and Deep Learning**
+- 🌱 I'm currently working on **Machine Learning and Deep Learning Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
